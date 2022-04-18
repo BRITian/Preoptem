@@ -32,4 +32,4 @@ python Preoptem_keras_RNN_pre.py test_chi.fas
 Result analysis 
 ====
 The output of the prediction is saved in the file of ./preoptem_pres/test_chi.fas.pred.
-The values of the first, second and third column in the file represented the Seq_id, Predicted_optimal_temperature, and Predicted_class.
+The values in the first, second and third column in the file represented the Seq_id, Predicted_optimal_temperature, and Predicted_class.
