@@ -1,4 +1,4 @@
-# # Preoptem
+# Preoptem
 
 Introduction
 ====
@@ -25,11 +25,11 @@ Quick Start to install the required program
 
 Predict the sequence 
 ====
-The input sequences shoud be in the fasta format. The input command is as the followings.
+The input sequences should be in the fasta format. The input command is as the followings.
 python Preoptem_keras_RNN_pre.py test_chi.fas
 
 
 Result analysis 
 ====
 The output of the prediction is saved in the file of ./preoptem_pres/test_chi.fas.pred.
-The values of the first, second and third column in the file  represented the Seq_id, Predicted_optimal_temperature, and Predicted_class.
+The values of the first, second and third column in the file represented the Seq_id, Predicted_optimal_temperature, and Predicted_class.
